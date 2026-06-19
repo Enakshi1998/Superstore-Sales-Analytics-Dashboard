@@ -83,7 +83,8 @@ The objective of this project is to:
 
 This dashboard enables stakeholders to monitor business performance, identify growth opportunities, and make informed strategic decisions through interactive and data-driven insights.
 
-<img width="1431" height="823" alt="image" src="https://github.com/user-attachments/assets/c4ff0951-4939-4aab-9122-57fe87a9abed" />
+<img width="1430" height="817" alt="image" src="https://github.com/user-attachments/assets/186dcd2c-f51a-4065-9be0-2e13daa0baf6" />
+
 
 ## Author
 
